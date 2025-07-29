@@ -1,11 +1,55 @@
-### 👋 Olá, eu sou @NicolasDv
+<h1 align="center">👋 Olá, eu sou o Nicolas Manuel (@NicolasDv)</h1>
 
-- 👀 Tenho interesse em desenvolvimento web, projetos open-source e aprender novas tecnologias.
-- 🌱 Atualmente estou aprendendo JavaScript, React e desenvolvimento backend com Node.js.
-- 💞️ Estou procurando colaborar em projetos open-source voltados para iniciantes e aplicações web interessantes.
-- 📫 Como me encontrar: [Nicolas108@gmail.com] ou pelo [LinkedIn]([https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/nicolas-manuel-5b2450210/))
+<p align="center">
+  💻 Desenvolvedor em formação | 🚀 Apaixonado por tecnologia e open-source | 🌍 Brasil
+</p>
 
-<!---
-Nicolas6638/Nicolas6638 é um repositório ✨ especial ✨ porque o `README.md` (este arquivo) aparece no seu perfil do GitHub.
-Você pode clicar no link de visualização para ver como ele fica.
---->
+---
+
+### 🧠 Sobre mim
+
+- 👀 Tenho interesse em **desenvolvimento web**, **projetos open-source** e **novas tecnologias**.
+- 🌱 Atualmente estou aprendendo **JavaScript**, **React** e **Node.js**.
+- 💞️ Busco colaborar em projetos **open-source**, especialmente voltados para iniciantes e aplicações web criativas.
+- 🎯 Foco em **crescimento contínuo**, aprendendo e aplicando o que estudo.
+- 📫 Como me encontrar: [nicolas108@gmail.com](mailto:nicolas108@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nicolas-manuel-5b2450210/)
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nicolas6638&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas6638&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+- 🔧 *Em construção...* (Adicione aqui os links dos seus principais projetos assim que quiser!)
+
+---
+
+### ⚡ Curiosidades
+
+- 🧩 Sempre gostei de resolver problemas e montar coisas — programação foi amor à primeira vista.
+- 🌍 Tenho vontade de trabalhar remotamente e colaborar com pessoas do mundo todo.
+- ☕ Amante de café e bons desafios!
+
+---
+
+> **“O sucesso é a soma de pequenos esforços repetidos diariamente.”** – Robert Collier
+
