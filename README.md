@@ -37,8 +37,7 @@
 
 ### 🚀 Projetos em Destaque
 
-- 🔧 *Em construção...* (Adicione aqui os links dos seus principais projetos assim que quiser!)
-
+- 🔧 *Em construção...* 
 ---
 
 ### ⚡ Curiosidades
