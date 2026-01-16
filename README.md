@@ -37,7 +37,24 @@
 
 ### 🚀 Projetos em Destaque
 
-- 🔧 *Em construção...* 
+🚀 Projetos em Destaque
+🧮 Calculadora de Partidas Rankeadas
+
+Projeto em JavaScript e HTML que calcula o saldo de vitórias e derrotas de um jogador e determina seu nível ranqueado com base no resultado.
+
+🔹 Tecnologias: JavaScript, HTML
+🔹 Conceitos aplicados:
+
+Variáveis e operadores
+
+Estruturas condicionais (if / else)
+
+Funções
+
+Lógica de programação
+
+🔗 Repositório:
+👉 https://github.com/Nicolas6638/calculadora-rankeadas
 ---
 
 ### ⚡ Curiosidades
