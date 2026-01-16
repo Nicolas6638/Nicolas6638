@@ -1,18 +1,20 @@
-<h1 align="center">👋 Olá, eu sou o Nicolas Manuel (@NicolasDv)</h1>
+<h1 align="center">👋 Olá, eu sou o Nicolas Manuel</h1>
 
 <p align="center">
-  💻 Desenvolvedor em formação | 🚀 Apaixonado por tecnologia e open-source | 🌍 Brasil
+  💻 Desenvolvedor Front-end em formação | 🚀 Apaixonado por tecnologia e open-source | 🌍 Brasil
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 👀 Tenho interesse em **desenvolvimento web**, **projetos open-source** e **novas tecnologias**.
-- 🌱 Atualmente estou aprendendo **JavaScript**, **React** e **Node.js**.
-- 💞️ Busco colaborar em projetos **open-source**, especialmente voltados para iniciantes e aplicações web criativas.
-- 🎯 Foco em **crescimento contínuo**, aprendendo e aplicando o que estudo.
-- 📫 Como me encontrar: [nicolas108@gmail.com](mailto:nicolas108@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nicolas-manuel-5b2450210/)
+- 👀 Interesse em **desenvolvimento web**, **projetos open-source** e **novas tecnologias**
+- 🌱 Atualmente estudando **JavaScript**, **React** e **Node.js**
+- 💞️ Busco colaborar em projetos **open-source**, especialmente para iniciantes
+- 🎯 Objetivo: conquistar minha **primeira oportunidade como desenvolvedor júnior**
+- 📫 Contato:  
+  📧 [nicolas108@gmail.com](mailto:nicolas108@gmail.com)  
+  💼 [LinkedIn](https://www.linkedin.com/in/nicolas-manuel-5b2450210/)
 
 ---
 
@@ -29,7 +31,7 @@
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nicolas6638&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nicolas6638&show_icons=true&theme=tokyonight"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas6638&layout=compact&theme=tokyonight"/>
 </div>
 
@@ -37,33 +39,23 @@
 
 ### 🚀 Projetos em Destaque
 
-🚀 Projetos em Destaque
-🧮 Calculadora de Partidas Rankeadas
+#### 🧮 Calculadora de Partidas Rankeadas
+Projeto em **JavaScript e HTML** que calcula o **saldo de vitórias e derrotas** de um jogador e determina seu **nível ranqueado** com base no resultado.
 
-Projeto em JavaScript e HTML que calcula o saldo de vitórias e derrotas de um jogador e determina seu nível ranqueado com base no resultado.
+🔹 **Tecnologias:** JavaScript, HTML  
+🔹 **Conceitos aplicados:** lógica de programação, funções e estruturas condicionais  
 
-🔹 Tecnologias: JavaScript, HTML
-🔹 Conceitos aplicados:
-
-Variáveis e operadores
-
-Estruturas condicionais (if / else)
-
-Funções
-
-Lógica de programação
-
-🔗 Repositório:
+🔗 **Repositório:**  
 👉 https://github.com/Nicolas6638/calculadora-rankeadas
+
 ---
 
 ### ⚡ Curiosidades
 
-- 🧩 Sempre gostei de resolver problemas e montar coisas — programação foi amor à primeira vista.
-- 🌍 Tenho vontade de trabalhar remotamente e colaborar com pessoas do mundo todo.
-- ☕ Amante de café e bons desafios!
+- 🧩 Gosto de resolver problemas e criar soluções
+- 🌍 Sonho em trabalhar remotamente e colaborar globalmente
+- ☕ Café + código = produtividade
 
 ---
 
 > **“O sucesso é a soma de pequenos esforços repetidos diariamente.”** – Robert Collier
-
